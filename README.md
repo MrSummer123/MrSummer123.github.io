@@ -1,2 +1,1 @@
-# MrSummer123.github.io
-My blog
+个人博客，不定期分享个人学习和生活经验...
