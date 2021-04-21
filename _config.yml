@@ -101,10 +101,7 @@ service-worker: true
 # Friends
 friends: [
    {
-        title: "共享盘服务",
-        href: "http://118.178.120.241:89/"
-    },{
-        title: "NextCloud服务",
-        href: "http://118.178.120.241:99/"
+        title: "语雀",
+        href: "https://www.yuque.com/books/share/abd22834-51d0-4503-ae57-52a1652764f3?# 《机器学习笔记》"
     }
 ]
